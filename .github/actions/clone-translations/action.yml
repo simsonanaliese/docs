@@ -1,6 +1,8 @@
 name: Clone translations
+#name: Clone translations
 
 description: Clone all remote translations so they're available
+#description: Clone all remote translations so they're available
 
 inputs:
   token:
